@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"apitest/models"
+	"beego_api/models"
 	"encoding/json"
 
 	beego "github.com/beego/beego/v2/server/web"
